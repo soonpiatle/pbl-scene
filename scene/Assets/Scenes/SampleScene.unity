@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641258, b: 0.5748172, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028352, g: 0.22571376, b: 0.30692244, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -123,6 +123,63 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &394256044
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -3970243614316841892, guid: 300c5a6bb51055c449e926ae04dbac3e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.08219862
+      objectReference: {fileID: 0}
+    - target: {fileID: -3970243614316841892, guid: 300c5a6bb51055c449e926ae04dbac3e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.14
+      objectReference: {fileID: 0}
+    - target: {fileID: -3970243614316841892, guid: 300c5a6bb51055c449e926ae04dbac3e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.4262414
+      objectReference: {fileID: 0}
+    - target: {fileID: -3970243614316841892, guid: 300c5a6bb51055c449e926ae04dbac3e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -3970243614316841892, guid: 300c5a6bb51055c449e926ae04dbac3e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3970243614316841892, guid: 300c5a6bb51055c449e926ae04dbac3e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3970243614316841892, guid: 300c5a6bb51055c449e926ae04dbac3e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3970243614316841892, guid: 300c5a6bb51055c449e926ae04dbac3e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3970243614316841892, guid: 300c5a6bb51055c449e926ae04dbac3e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3970243614316841892, guid: 300c5a6bb51055c449e926ae04dbac3e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2107409826236812522, guid: 300c5a6bb51055c449e926ae04dbac3e, type: 3}
+      propertyPath: m_Name
+      value: 'Cake strawberries '
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 3150474306388093854, guid: 300c5a6bb51055c449e926ae04dbac3e, type: 3}
 --- !u!1 &454783277
 GameObject:
   m_ObjectHideFlags: 0
@@ -847,3 +904,4 @@ SceneRoots:
   - {fileID: 1563442741}
   - {fileID: 1063357458}
   - {fileID: 1350148377}
+  - {fileID: 394256044}
